@@ -1,0 +1,15 @@
+.backgg{
+    background-image: url(./images/background.jpg);
+
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+div > h4{
+    color: #26667F;
+}
+#name{
+    color: white;
+}
